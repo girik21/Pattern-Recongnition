@@ -1,5 +1,0 @@
-#Installations
-
-OpenCV :pip3 install opencv-contrib-python
-MatplotLib: pip3 install matplotlib
-

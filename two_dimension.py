@@ -21,7 +21,7 @@ def read_image_to_array(file_path):
 
     return imageTable, row + 1, col
 
-file_path = "image/pattern2.txt"  
+file_path = "image/patternFile.txt"  
 imageTable, rows, cols = read_image_to_array(file_path)
 
 
